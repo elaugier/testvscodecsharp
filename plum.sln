@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oauth-server", "oauth-server\oauth-server.csproj", "{C903BDE0-B28E-4CB2-B4A1-1A64B87863D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plum-api", "plum-api\plum-api.csproj", "{60095347-36CC-4203-929F-92A49BA2D33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C903BDE0-B28E-4CB2-B4A1-1A64B87863D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C903BDE0-B28E-4CB2-B4A1-1A64B87863D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C903BDE0-B28E-4CB2-B4A1-1A64B87863D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C903BDE0-B28E-4CB2-B4A1-1A64B87863D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60095347-36CC-4203-929F-92A49BA2D33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60095347-36CC-4203-929F-92A49BA2D33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60095347-36CC-4203-929F-92A49BA2D33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60095347-36CC-4203-929F-92A49BA2D33D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
